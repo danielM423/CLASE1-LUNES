@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CLASE1-LUNES/static/css/main.1dc861b7.css",
+    "main.js": "/CLASE1-LUNES/static/js/main.9660a967.js",
+    "static/js/453.def2363a.chunk.js": "/CLASE1-LUNES/static/js/453.def2363a.chunk.js",
+    "index.html": "/CLASE1-LUNES/index.html",
+    "main.1dc861b7.css.map": "/CLASE1-LUNES/static/css/main.1dc861b7.css.map",
+    "main.9660a967.js.map": "/CLASE1-LUNES/static/js/main.9660a967.js.map",
+    "453.def2363a.chunk.js.map": "/CLASE1-LUNES/static/js/453.def2363a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dc861b7.css",
+    "static/js/main.9660a967.js"
+  ]
+}
