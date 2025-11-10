@@ -2,7 +2,7 @@
   "name": "despliegue-git",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": "https://github.com/danielM423/CLASE1-LUNES.git",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
